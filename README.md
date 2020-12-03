@@ -1,4 +1,5 @@
 Convolutional Neural Network
+
 Convolutional neural networks are used most of the time
 in computer vision applications because of the high accuracy
 in performance when compared to other machine learning
@@ -12,6 +13,7 @@ neurons of the human brain. Individual neurons respond to
 stimuli only in a restricted region of the visual field. A
 collection of such fields overlaps to cover the entire visual
 area. 
+
 CNNs were first used on the MNIST dataset by Lacun et
 al. MNIST is the most widely used dataset for image
 recognition applications. Lucan designed a CNN known as
@@ -41,7 +43,7 @@ slants, etc. are extracted. The filtered image for a given
 convolution window is called a feature map.
 Then comes the pooling layer, which basically takes a
 window (usually 2X2) and collapse all the pixels in it to one
-pixel. Hence shrinking the image. In LeNet-5,[3] Lacun used
+pixel. Hence shrinking the image. In LeNet-5, Lacun used
 mean pooling layer.
 
 After a consecutive layer of alternating Convolution and
@@ -53,6 +55,7 @@ neural network. And finally, the classification is done using
 softmax classification.
 
 A. Backpropogation Algorithm
+
 The backpropagation algorithm is a gradient descent on a
 non-convex objective, with a careful ordering of computation
 to avoid repeating computation. In particular, one first propagates
