@@ -35,6 +35,8 @@ window is assigned to one node of the neural net with all
 the pixels in that window acting as inputs to the node and a
 weighted sum is obtained as output.
 
+![image](https://user-images.githubusercontent.com/29623347/101104628-c745d900-3588-11eb-96a4-dda25dd09b55.png)
+
 where k is the feature map, l is the pixel location, w is
 weight associated with that feature map, and A are the pixel
 surrounding the pixel (i,j).
