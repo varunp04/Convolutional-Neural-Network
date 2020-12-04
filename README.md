@@ -6,7 +6,7 @@ I performed experiments on CNN to get the best possible parrameters.
 
 classifier.py: the network is defined in this file
 
-module1.py: all experimentation are donw using this file. Run module1.py to perfrom the experiments 
+module1.py: all experimentation are donw using this file. Run module1.py to perform the experiments 
 
 ### CNN design using Keras
 
