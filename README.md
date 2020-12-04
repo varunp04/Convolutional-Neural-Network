@@ -1,8 +1,14 @@
-###Convolutional Neural Network
+# Convolutional Neural Network
 
-I perfromed experiments on CNN to get the best possible parrameters
+I perfromed experiments on CNN to get the best possible parrameters.
 
-CNN design using Keras
+Files
+
+classifier.py: the network is defined in this file
+
+module1.py: all experimentation are donw using this file. Run module1.py to perfrom the experiments 
+
+### CNN design using Keras
 
 Python provides us with the TensorFlow and Keras library
 which has many inbuilt algorithms. In this project, we will be
