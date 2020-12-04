@@ -1,8 +1,8 @@
 # Convolutional Neural Network
 
-I perfromed experiments on CNN to get the best possible parrameters.
+I performed experiments on CNN to get the best possible parrameters.
 
-Files
+### Files
 
 classifier.py: the network is defined in this file
 
